@@ -46,6 +46,16 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 ![THUMB_arduino_faux_segment_display_clock_02](https://github.com/upiir/arduino_faux_segmented_clock/assets/117754156/ddfbd738-a60f-4f70-a613-52ec0606200e)
 
 
+Small Animations:
+
+![arduino_oled_digital_clock_trans](https://github.com/upiir/arduino_faux_segmented_clock/assets/117754156/3d15f6d6-087e-4ea0-b381-d21d0dd9fe69)
+
+![arduino_oled_digital_clock_small](https://github.com/upiir/arduino_faux_segmented_clock/assets/117754156/69eb895e-86bf-49c7-81e8-1f09517fca10)
+
+![arduino_oled_digital_clock_big](https://github.com/upiir/arduino_faux_segmented_clock/assets/117754156/d6e2f3ec-acf5-4a77-a4f6-554650118138)
+
+
+
 
 Screenshots from the video:
 
