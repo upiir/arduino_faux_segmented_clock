@@ -3,6 +3,7 @@ Faux Segmented Clock Design with Arduino UNO and 128x64px OLED Display
 
 
 **YouTube video: https://youtu.be/OqqPvb8FEHs**
+**WOKWI sketch: https://wokwi.com/projects/390534947226203137**
 
 
 
